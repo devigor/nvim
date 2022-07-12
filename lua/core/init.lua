@@ -1,0 +1,6 @@
+require("core.lsp")
+require("core.cmp")
+require("core.comment")
+require("core.telescope")
+require("core.auto-pairs")
+require("core.treesitter")

@@ -1,0 +1,7 @@
+require("ui.theme")
+require("ui.lualine")
+require("ui.trouble")
+require("ui.terminal")
+require("ui.blankline")
+require("ui.dashboard")
+require("ui.nvim-tree")
